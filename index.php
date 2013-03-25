@@ -197,7 +197,7 @@ if (defined('ENVIRONMENT'))
  * --------------------------------------------------------------------
  *
  * And away we go...
- *
+ * This is new user System.
  */
 require_once BASEPATH.'core/CodeIgniter.php';
 
